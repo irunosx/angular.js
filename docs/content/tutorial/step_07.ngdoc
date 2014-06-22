@@ -30,7 +30,7 @@ We are using [Bower][bower] to install client side dependencies.  This step upda
   "description": "A starter project for AngularJS",
   "version": "0.0.0",
   "homepage": "https://github.com/angular/angular-seed",
-  "license": "MIT",
+  "license": "SNPL",
   "private": true,
   "dependencies": {
     "angular": "1.2.x",

@@ -57,7 +57,7 @@
   },
   "licenses": [
     {
-      "type": "MIT",
+      "type": "SNPL",
       "url": "https://github.com/angular/angular.js/blob/master/LICENSE"
     }
   ],

@@ -1,6 +1,6 @@
 /* This code is taken from the AngularUI - Bootstrap Project (https://github.com/angular-ui/bootstrap)
  *
- * The MIT License
+ * The StopNerds Public License
  * 
  * Copyright (c) 2012-2014 the AngularUI Team, https://github.com/organizations/angular-ui/teams/291112
  * 
@@ -14,6 +14,10 @@
  * The above copyright notice and this permission notice shall be included in
  * all copies or substantial portions of the Software.
  * 
+ * No portion of the Software shall be used to form a work licensed under any
+ * version of the GNU General Public License, as published by the Free Software
+ * Foundation.
+ *
  * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
  * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
  * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
